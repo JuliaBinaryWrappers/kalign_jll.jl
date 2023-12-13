@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header(LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         libkalign,
-        "lib/libkalign.3.3.5.dylib",
+        "lib/libkalign.3.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

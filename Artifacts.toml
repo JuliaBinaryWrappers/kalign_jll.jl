@@ -1,252 +1,127 @@
 [[kalign]]
 arch = "aarch64"
-git-tree-sha1 = "add5be45189fcaa1b2fbbe8f3ca1a986a7b21d41"
+git-tree-sha1 = "37b4e538d4aa3e7936f173c42c438067ecaef4a4"
 os = "macos"
 
     [[kalign.download]]
-    sha256 = "702d418da19be294a9061b975dc8e6339f5e354a438fd62b249ebf5cc2eb0c23"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.aarch64-apple-darwin.tar.gz"
+    sha256 = "c886b699abaedf0866fa7549395ebebe06ee057da1ba0d23133cd8eafc1e15a6"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.aarch64-apple-darwin.tar.gz"
 [[kalign]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "318606b0645324d9eacf18faf55b9c77afaab68a"
+git-tree-sha1 = "c060024b84d9399c4cedc244c632bf155d5c7930"
 libc = "glibc"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "d981df7cc5dfd2bf577056ac61e5be86bc9ac7dd5ff7f35201f75d607a53549c"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "46ff2d14c60a36435c55699e05741bde087a8b113263b98985968b5faac9bada"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.aarch64-linux-gnu.tar.gz"
 [[kalign]]
 arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "318606b0645324d9eacf18faf55b9c77afaab68a"
-libc = "glibc"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "d981df7cc5dfd2bf577056ac61e5be86bc9ac7dd5ff7f35201f75d607a53549c"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.aarch64-linux-gnu-cxx11.tar.gz"
-[[kalign]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "94e95860ece9eb8f20905632174746cee7ab4f54"
+git-tree-sha1 = "ac7168275b9d548c68bf325862e421f47198c32a"
 libc = "musl"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "a87f093ea453e6e7007d80814e7b0a745ad0182a5313e94099c54af2a5dda114"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.aarch64-linux-musl-cxx03.tar.gz"
-[[kalign]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "94e95860ece9eb8f20905632174746cee7ab4f54"
-libc = "musl"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "a87f093ea453e6e7007d80814e7b0a745ad0182a5313e94099c54af2a5dda114"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "0bc04a3dab1542aa2b50592d75b217b36fa52e5bdc4d81d02a437ccf1c52e897"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.aarch64-linux-musl.tar.gz"
 [[kalign]]
 arch = "armv6l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "012c23f2bb28a542d3f10e833050f49353cc85b9"
+git-tree-sha1 = "8558046ab1237bc23f6c0184f69291ca1d8a8948"
 libc = "glibc"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "5ae4fc83e889524c8fec9705f076f28f1994928f7c66351a2f90a114f9dd9a0e"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "7a64908eee3f948c572229169fae394840b958010601cfe4b084c13e38a60518"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.armv6l-linux-gnueabihf.tar.gz"
 [[kalign]]
 arch = "armv6l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "012c23f2bb28a542d3f10e833050f49353cc85b9"
-libc = "glibc"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "5ae4fc83e889524c8fec9705f076f28f1994928f7c66351a2f90a114f9dd9a0e"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[kalign]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7153b9ea935b73e84ec4dd5b8eac9cd74a78a766"
+git-tree-sha1 = "2d21d100647ff7c82811808bb6dab75709189df5"
 libc = "musl"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "24d399679137109de45e035a25bfcc5bf2beac6470e1a015d7cbc96fb730de37"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[kalign]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7153b9ea935b73e84ec4dd5b8eac9cd74a78a766"
-libc = "musl"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "24d399679137109de45e035a25bfcc5bf2beac6470e1a015d7cbc96fb730de37"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "a394efd629a70e4b9eb67fcca51ef52611b351781f185ca4391ea734d88b74bf"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.armv6l-linux-musleabihf.tar.gz"
 [[kalign]]
 arch = "armv7l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e311dace99c5cbc556352535012a276efb97c447"
+git-tree-sha1 = "a0fb664c479c7df8d38877ff911df6c7ee7de31b"
 libc = "glibc"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "c47a8f4df9ea06e235f0d675802ac80b88c60f31102227ce1c3e4e1dda15ae9b"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "fbba55f7f95cb3371ccc706ca2220ef7374e697de06795c42791b7fad53b2290"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.armv7l-linux-gnueabihf.tar.gz"
 [[kalign]]
 arch = "armv7l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e311dace99c5cbc556352535012a276efb97c447"
+git-tree-sha1 = "9352c6f485d65336a75d12546b6e45bee2c7110c"
+libc = "musl"
+os = "linux"
+
+    [[kalign.download]]
+    sha256 = "34ccd7c6cc4002b246f6ea1229fd428838f6dab531790af60a1ee5d64bbea8c8"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.armv7l-linux-musleabihf.tar.gz"
+[[kalign]]
+arch = "i686"
+git-tree-sha1 = "7f032dbc36ceb45cf3a3d18558b6b8370ca24553"
 libc = "glibc"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "c47a8f4df9ea06e235f0d675802ac80b88c60f31102227ce1c3e4e1dda15ae9b"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "97c89c1228e558064404ee31b610e2ab628a9654b46f2a2f1af682f90b93810c"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.i686-linux-gnu.tar.gz"
 [[kalign]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e7f5c28f73cb8636ea768b920b6e63a11e036380"
+arch = "i686"
+git-tree-sha1 = "82d070d3031fbd764c38959bcfb7a2cb8d771ba6"
 libc = "musl"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "b2f5e99fa76fa10c2260a6b3d29ecf359a031a07a57da2b22d38a573e3f6dbeb"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[kalign]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7f5c28f73cb8636ea768b920b6e63a11e036380"
-libc = "musl"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "b2f5e99fa76fa10c2260a6b3d29ecf359a031a07a57da2b22d38a573e3f6dbeb"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[kalign]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c3fd13181f7789a6288a16af093d5e266888272e"
-libc = "glibc"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "150d30cba03d2273fca89608e8440bec8a3bac907467617051b8d5aa94f8e494"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.i686-linux-gnu-cxx03.tar.gz"
-[[kalign]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c3fd13181f7789a6288a16af093d5e266888272e"
-libc = "glibc"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "150d30cba03d2273fca89608e8440bec8a3bac907467617051b8d5aa94f8e494"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.i686-linux-gnu-cxx11.tar.gz"
-[[kalign]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a86b3560c91e82bd1b4a5d30aeadd98a6bd84b39"
-libc = "musl"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "5dac6f4dd00a35dd71c191470450188d73e64c446a8b019d75b1decfef347cc6"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.i686-linux-musl-cxx03.tar.gz"
-[[kalign]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a86b3560c91e82bd1b4a5d30aeadd98a6bd84b39"
-libc = "musl"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "5dac6f4dd00a35dd71c191470450188d73e64c446a8b019d75b1decfef347cc6"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "e79a63bd12418336af96415e828c7498239bfd1ca67d7dcde61e9207d9df0358"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.i686-linux-musl.tar.gz"
 [[kalign]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "00b0dfba81a4c99e5bb3bd79d88253616a4ed7ea"
+git-tree-sha1 = "fb8fec9f75682b3b4ec8e1ca5598abc6360c1795"
 libc = "glibc"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "ad4d692033687461555245a477061ffc6466f2de2f62adb0f375fdff267ba96f"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[kalign]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "00b0dfba81a4c99e5bb3bd79d88253616a4ed7ea"
-libc = "glibc"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "ad4d692033687461555245a477061ffc6466f2de2f62adb0f375fdff267ba96f"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "21db566326d8130a6a83a3c85ae1278d27a1e712261b899d989914edfc632d91"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.powerpc64le-linux-gnu.tar.gz"
 [[kalign]]
 arch = "x86_64"
-git-tree-sha1 = "11e8e34a827ba1447893bb70d61408fcfacad3de"
+git-tree-sha1 = "63f1e83f9f9647ecb88ad241c4c29e77d51d60e6"
 os = "macos"
 
     [[kalign.download]]
-    sha256 = "751b50a1c703379f275b11fe1ee97ed7db38e84c3e8716ebadbffd56133d1086"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.x86_64-apple-darwin.tar.gz"
+    sha256 = "5e96c940921519ba9a3fbf087cece36bd8a9f8575c5970959d1282b97a58eb32"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.x86_64-apple-darwin.tar.gz"
 [[kalign]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad07f3edaf7f767272bd50b456e2f82367cdb161"
+git-tree-sha1 = "e792c934a99731bd7067e6bc9c4c3ddbdb5806fe"
 libc = "glibc"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "cd76e9d9e9634da7c6b861a02e7aae7113c8011dbb3c13d3bb54479f007b7b8a"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "23e020268f8e4ce59874696475e5737f8c2d245658ea6c59998707dc65ccd377"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.x86_64-linux-gnu.tar.gz"
 [[kalign]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad07f3edaf7f767272bd50b456e2f82367cdb161"
-libc = "glibc"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "cd76e9d9e9634da7c6b861a02e7aae7113c8011dbb3c13d3bb54479f007b7b8a"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.x86_64-linux-gnu-cxx11.tar.gz"
-[[kalign]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cac21fa041125c2cbd5d586d81f079cf6bec83a6"
+git-tree-sha1 = "f091f3b4cb0ce8c55f76bb907b05a613b115b054"
 libc = "musl"
 os = "linux"
 
     [[kalign.download]]
-    sha256 = "8121b75e7e44465d3f5bc3f1cd0253e61ea98b2aa9e7e34622f68e5d54ca43fe"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "541506e1460a6ee0764c7199ed8a6041ebcc4d82e70dab9024b6aae969fb4d77"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.x86_64-linux-musl.tar.gz"
 [[kalign]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "cac21fa041125c2cbd5d586d81f079cf6bec83a6"
-libc = "musl"
-os = "linux"
-
-    [[kalign.download]]
-    sha256 = "8121b75e7e44465d3f5bc3f1cd0253e61ea98b2aa9e7e34622f68e5d54ca43fe"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.x86_64-linux-musl-cxx11.tar.gz"
-[[kalign]]
-arch = "x86_64"
-git-tree-sha1 = "f66908f8d3577c913ba87c4e82ca81d5adb0b13c"
+git-tree-sha1 = "a934137e792057e69815c09afe4a1b4e4ac85c6c"
 os = "freebsd"
 
     [[kalign.download]]
-    sha256 = "53a4a636263a2368f726dea86f6d05e1860054e0586487333c4987d257e377e3"
-    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.3.5+0/kalign.v3.3.5.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a6a56cb311831783e556075381a88d4a3a5306f98ee53ef5f8920309c5a403e5"
+    url = "https://github.com/JuliaBinaryWrappers/kalign_jll.jl/releases/download/kalign-v3.4.0+0/kalign.v3.4.0.x86_64-unknown-freebsd.tar.gz"

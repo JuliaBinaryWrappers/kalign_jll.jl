@@ -1,6 +1,6 @@
 name = "kalign_jll"
 uuid = "86ae5844-b998-5f56-950b-e2311b0a7e21"
-version = "3.3.5+0"
+version = "3.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -12,3 +12,5 @@ LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+Libdl = "1"
+Artifacts = "1"
